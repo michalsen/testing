@@ -1,0 +1,10 @@
+{
+    "require": {
+        "behat/mink-extension": "^2.2",
+        "behat/mink-goutte-driver": "^1.2"
+    },
+    "require-dev": {
+        "sensiolabs/behat-page-object-extension": "^2.0",
+        "phpunit/phpunit": "^6.3"
+    }
+}
